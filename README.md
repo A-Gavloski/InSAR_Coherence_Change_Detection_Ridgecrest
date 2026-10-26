@@ -15,7 +15,6 @@ Interferometric coherence measures how stable the radar echo of the ground is be
 | Q1 distance decay: median Δγ within *w* above background | 0.24 | 0.06 |
 | Q2 concentration: share of mapped rupture with detected coherence loss within *w* | 84% | 25% |
 | Q3 correctness: share of detected pixels within *w* of a mapped trace (lower bound) | 26% | 3% |
-| Enrichment over chance | 10.4× | 1.5× |
 
 - Coherence loss halves within **230 m** of the mapped traces (the rupture itself) and falls to 10% at about **2.2 km** (the zone of distributed cracking and shaking damage).
 - 109 of the 160 km of mapped rupture falls inside the processed swath. The rest is outside the data and does not count against the scores.
