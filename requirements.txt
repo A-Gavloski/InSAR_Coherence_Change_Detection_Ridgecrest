@@ -1,0 +1,12 @@
+asf_search
+folium
+geopandas
+jupyterlab
+matplotlib
+numpy
+pandas
+pyogrio
+pytest
+rasterio
+scipy
+shapely

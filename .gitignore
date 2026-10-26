@@ -1,0 +1,28 @@
+# Large data: downloaded or generated, never committed
+data/raw/
+data/processed/
+data/usgs/
+*.zip
+*.SAFE/
+*.tif
+*.tiff
+*.dim
+*.data/
+*.h5
+
+# Credentials
+.env
+.netrc
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

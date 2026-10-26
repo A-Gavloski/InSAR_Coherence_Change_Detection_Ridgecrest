@@ -1,0 +1,17 @@
+name: ridgecrest-ccd
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - asf_search
+  - folium
+  - geopandas
+  - jupyterlab
+  - matplotlib
+  - numpy
+  - pandas
+  - pyogrio
+  - pytest
+  - rasterio
+  - scipy
+  - shapely
